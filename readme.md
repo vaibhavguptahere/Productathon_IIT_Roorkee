@@ -56,15 +56,12 @@ Most tools detect leads.
 
 ## 🔹 Command Center
 
-![Command Center](https://chatgpt.com/c/assets/command-center.png)
-
 > A mission-control style dashboard providing a real-time view of industrial demand signals.
 
 ---
 
 ## 🔹 Opportunity Radar
 
-![Opportunity Radar](https://chatgpt.com/c/assets/opportunity-radar.png)
 
 > Detect emerging fuel demand zones and identify high-opportunity sectors instantly.
 
@@ -72,15 +69,12 @@ Most tools detect leads.
 
 ## 🔹 AI Lead Dossier
 
-![Lead Dossier](https://chatgpt.com/c/assets/lead-dossier.png)
-
 > Complete company intelligence including signals, product recommendations, revenue estimates, and next actions.
 
 ---
 
 ## 🔹 Strategic Intelligence Dashboard
 
-![Strategic Dashboard](https://chatgpt.com/c/assets/strategic-dashboard.png)
 
 > Executive-ready insights highlighting market shifts and growth sectors.
 
@@ -223,7 +217,6 @@ This creates a continuously improving intelligence engine.
 
 ## 🔹 System Architecture
 
-![Architecture](https://chatgpt.com/c/assets/architecture.png)
 
 ```
 Public Signals → AI Processing → Lead Engine → Strategic Intelligence
